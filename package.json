@@ -1,0 +1,20 @@
+{
+  "name": "cralwer-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.3.0",
+    "avatars.io": "^0.1.6",
+    "cheerio": "^0.22.0",
+    "imgur": "^0.2.1",
+    "mongo": "^0.1.0",
+    "request": "^2.81.0",
+    "wait.for-es6": "^0.1.0"
+  }
+}
